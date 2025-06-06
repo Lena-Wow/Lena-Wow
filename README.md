@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Ich befinde mich aktuell in einer beruflichen Weiterbildung im Bereich Data Science / Programmierung.  
+Hier dokumentiere ich meine Lernfortschritte und Projekte. 🚀  
 <!--
 **Lena-Wow/Lena-Wow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
