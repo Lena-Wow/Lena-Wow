@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ![PSM I](https://img.shields.io/badge/Scrum.org-PSM%20I-blue)
 <p align="right">
-  <img src="PSMI.png" alt="Scrum Zertifizierung" width="100">
+  <img src="PSMI.png" alt="Scrum Zertifizierung" width="30">
 </p>
