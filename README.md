@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![PSM I](https://img.shields.io/badge/Scrum.org-PSM%20I-blue)
-<p align="right">
+<p align="left">
   <img src="PSMI.png" alt="Scrum Zertifizierung" width="30">
 </p>
